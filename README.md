@@ -1,4 +1,4 @@
-## Project Name : Fit Log ninja
+## Project Name : Fit Log Ninja Pro
 
 ## Short Describtion
 It's a daily exercise plan project. Users can plan their workout routine. Users can learn about daily exercise and motivate.
